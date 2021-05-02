@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Khwan Siricharoenporn
+- 👀 I’m interested in the code architecture, clean code, low level layer.
+- 📦 For my github is just the container of exam project. You can pull the public project into your local.
